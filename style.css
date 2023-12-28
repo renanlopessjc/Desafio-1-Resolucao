@@ -42,17 +42,25 @@
 }
 
 #p-central{
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 300;
     line-height: 30px;
 }
 
 #h1-central{
-    font-size: 40px;
+    font-size: 35px;
     font-style: normal;
     font-weight: 500;
     line-height: 20px; /* 50% */
+    display: flex;
+    margin-top: 70px;
+    
+}
+
+#container-text{
+    margin-left: 77px;
+    margin-top: 200px;
 }
 
 #container{
@@ -66,13 +74,9 @@
     margin-top: 70px;
     margin-left: auto;
     margin-right: 54px; 
+    margin-bottom: 70px;
 }
 
-#container-text{
-    margin-top: 270px;
-    
-    margin-left: 300px;
-}
 
 #campo-formulario{
     background-color: #303030;
